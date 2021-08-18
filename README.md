@@ -1,5 +1,6 @@
 ## Bem-vindo ao meu github, prazer sou o Lupan :D
  <div>
+  <a href="https://github.com/zLupan">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=zLupan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Minhas estatísticas"/>
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zLupan&layout=compact&langs_count=5&theme=dracula&hide_border=true&border_radius=5&custom_title=Linguagens mais usadas"/>
 </div>
